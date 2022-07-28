@@ -10,6 +10,9 @@ image:
   # Overrides the image tag whose default is the chart appVersion.
   tag: "52473a3"
 
+Container:
+  Port: 9001
+
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
