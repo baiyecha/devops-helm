@@ -8,7 +8,7 @@ image:
   repository: tuzhigen/devops
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "3adf4dc"
+  tag: "f7a597a"
 
 Container:
   Port: 9001
